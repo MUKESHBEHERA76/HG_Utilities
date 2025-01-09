@@ -251,7 +251,7 @@
 </INVOKE>
 
 <INVOKE TIMEOUT="" SERVICE="pub.security.outboundPasswords:updatePassword" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
+  <COMMENT>--Update password in outbound store--</COMMENT>
 
   <!-- nodes -->
 

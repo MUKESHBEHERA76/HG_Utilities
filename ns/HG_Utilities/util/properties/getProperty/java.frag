@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getProperty</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWtleSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29y
+LCAia2V5IiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KU3RyaW5nIHZhbHVlID0gbnVs
+bDsNCmlmIChnbG9iYWxQcm9wZXJ0aWVzICE9IG51bGwpIHsNCiAgICB2YWx1ZSA9IGdsb2JhbFBy
+b3BlcnRpZXMuZ2V0UHJvcGVydHkoa2V5KTsNCn0NCi8vIHBpcGVsaW5lDQpJRGF0YUN1cnNvciBw
+aXBlbGluZUN1cnNvcl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBw
+aXBlbGluZUN1cnNvcl8xLCAidmFsdWUiLCB2YWx1ZSApOw0KcGlwZWxpbmVDdXJzb3JfMS5kZXN0
+cm95KCk7DQoJ</value>
+</Values>

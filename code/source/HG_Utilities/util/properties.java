@@ -137,7 +137,7 @@ public final class properties
 			    }
 		// pipeline
 		IDataCursor pipelineCursor_1 = pipeline.getCursor();
-		IDataUtil.put( pipelineCursor_1, "returnMessage", returnMessage+" :"+packagesDir+" :"+tempPropertyFilePath );
+		IDataUtil.put( pipelineCursor_1, "returnMessage", returnMessage);
 		pipelineCursor_1.destroy();			
 		// --- <<IS-END>> ---
 

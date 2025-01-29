@@ -16,5 +16,6 @@ ZXMoKTs=</value>
     <value>java.io.FileInputStream</value>
     <value>java.util.Properties</value>
     <value>java.util.Set</value>
+    <value>java.io.File</value>
   </array>
 </Values>

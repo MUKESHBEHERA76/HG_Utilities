@@ -10,6 +10,7 @@ import com.wm.app.b2b.server.ServiceException;
 import java.io.FileInputStream;
 import java.util.Properties;
 import java.util.Set;
+import java.io.File;
 // --- <<IS-END-IMPORTS>> ---
 
 public final class properties
@@ -120,7 +121,7 @@ public final class properties
 				outputCursor.destroy();
 				
 				// Construct the properties file path
-				String tempPropertyFilePath =packagesDir + "\\" + packageName + "\\config\\" + packageName + ".properties";
+				String tempPropertyFilePath =packagesDir + File.separator + packageName + File.separator + "config" + File.separator + packageName + ".properties";
 		
 		
 				// Create a static Properties object to store the configurations
